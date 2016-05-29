@@ -4,7 +4,7 @@ class eof{
         Scanner s = new Scanner(System.in);
         int count = 1;
         while(s.hasNext()){
-            System.out.println(count + " " +s.next());
+            System.out.println(count + " " +s.nextLine());
             count++;
         }
     }
