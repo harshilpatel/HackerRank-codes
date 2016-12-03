@@ -1,3 +1,3 @@
-# HackerRank-java
-Codes from hackerrank problems.
+# HackerRank
+Codes from hackerrank problems. 
 2016
