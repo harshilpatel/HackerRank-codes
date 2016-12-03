@@ -1,3 +1,3 @@
 # HackerRank-java
-Codes from hackerrank problems in java. Python codes go different repo
+Codes from hackerrank problems.
 2016
