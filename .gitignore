@@ -3,3 +3,8 @@
 *.vscode
 *.pyc
 *.vscode
+
+test-codes/*.java
+*.class
+bash-programmings
+*.out
